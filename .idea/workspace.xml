@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="298020d1-cc83-4a92-8070-41f088ce9752" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/desktop menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frontendpractico.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frontendpractico.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660257781619</updated>
-      <workItem from="1660257782714" duration="12514000" />
+      <workItem from="1660257782714" duration="16208000" />
     </task>
     <servers />
   </component>
